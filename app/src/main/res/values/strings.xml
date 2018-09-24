@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHubCommits</string>
+    <string name="fetch">Fetch</string>
+    <string name="commit_id">Commit ID</string>
+    <string name="committer">Committer</string>
+    <string name="date">Date</string>
+    <string name="fetch_commits">"fetching commits&#8230;"</string>
+</resources>
